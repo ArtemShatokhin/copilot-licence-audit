@@ -84,7 +84,7 @@ python3 -m unittest discover -s tests
 - **What you would pay instead.** A self-hosted stack has its own costs — model tokens, compute, and the engineer-hours to run it. The audit gives you the size of the current bill; the comparison is a separate estimate, and it belongs in your numbers, not in a vendor's.
 - **Anything about a tenant it cannot read.** A user with no usage row is counted idle and listed separately, because an unreadable record and an unused seat look the same from the bill's side.
 
-The public half of that estimate is on the campaign site: [is Microsoft Copilot free](https://opensourcecopilotalternative.com/is-microsoft-copilot-free) sorts the plans a person actually buys, and [the Microsoft 365 Copilot add-on](https://opensourcecopilotalternative.com/microsoft-365-copilot-add-on) says what the per-seat charge covers.
+The public half of that estimate is on the campaign site: [is Microsoft Copilot free](https://opensourcecopilotalternative.com/is-microsoft-copilot-free) sorts the plans a person actually buys, and [the Microsoft 365 Copilot add-on](https://opensourcecopilotalternative.com/microsoft-365-copilot-add-on) says what the per-seat charge covers. The line between the business and enterprise editions, which decides whether the desk you are auditing even reports usage the same way, is drawn in [Microsoft Copilot vs Copilot Business](https://opensourcecopilotalternative.com/microsoft-copilot-vs-copilot-business).
 
 ## Licence
 
